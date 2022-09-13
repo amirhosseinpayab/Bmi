@@ -31,4 +31,3 @@ def normal_weight(weight , height):
         print('You have to gain %.0f kg\n'%under_weight)
 print(bmi(weight,height))
 normal_weight(weight,height)
-# programmer : amirhosseinpayab
